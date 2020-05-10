@@ -1,7 +1,6 @@
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**
-!**/src/test/**
 
 ### IntelliJ IDEA ###
 .idea
@@ -9,3 +8,5 @@ target/
 *.iml
 *.ipr
 
+.gradle/
+out/
